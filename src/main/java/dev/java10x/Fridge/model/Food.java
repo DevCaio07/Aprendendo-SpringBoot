@@ -1,4 +1,4 @@
 package dev.java10x.Fridge.model;
-
-public class food {
+//Objeto Principal
+public class Food {
 }
